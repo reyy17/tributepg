@@ -1,0 +1,28 @@
+ body {
+            padding-top: 2%;
+            padding-right: 10%;
+            padding-left: 10%;
+            padding-bottom: 10%;        }
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.column {
+    width:20%;
+    min-width: 100px;
+    
+}
+.img-l
+{
+    width: 100%;
+    height: auto;
+}
+.img-s
+{
+    width: 80%;
+    height: auto;
+}
+.text{
+    padding: 10px;
+}
